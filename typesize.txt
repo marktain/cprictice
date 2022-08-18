@@ -1,0 +1,9 @@
+Type　int　  has　a　size　of　4　bytes.
+Type　short　has　a　size　of　2　bytes.
+Type　char　 has　a　size　of　1　bytes.
+Type　long　 has　a　size　of　8　bytes.
+Type　longlong　has　a　size　of　8　bytes.
+Type　double has　a　size　of　8　bytes.
+Type　long　double　has　a　size　of　16　bytes.
+
+	
